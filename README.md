@@ -20,10 +20,11 @@
 | Alertas revisados por pessoas | Alertas com decisão registrada ÷ alertas ativos |
 
 ## 2. Integrantes
-
-Pamella Souza da Silva Ferreira	 	 RM566172
-Laís Krajner Lacerda		   	   RM563182
-Luana Magalhães Freire		    	 RM565305
+| Nome | RM |
+|---|---|
+|Pamella Souza da Silva Ferreira|RM566172|
+|Laís Krajner Lacerda|RM563182|
+|Luana Magalhães Freire|RM565305|
 
 ## 3. Demonstração visual
 
